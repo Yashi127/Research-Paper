@@ -1,2 +1,2 @@
 # Research-Paper
-Team Research Collaboration: Co-authored an IEEE-published research paper — "Unmasking Financial Deception: Leveraging Machine Learning for Risk Analysis and Fraud Detection in Financial Markets" — as part of a high-performing 3-member team. Drove end-to-end development of advanced ML models under aggressive deadlines, contributing to innovative approaches for detecting anomalies and mitigating financial risk. Demonstrated excellence in collaborative research, technical innovation, and delivering peer-reviewed outcomes under pressure.
+"Unmasking Financial Deception: Leveraging Machine Learning for Risk Analysis and Fraud Detection in Financial Markets"
